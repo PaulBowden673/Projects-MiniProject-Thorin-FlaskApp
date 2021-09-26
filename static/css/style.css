@@ -10,3 +10,12 @@ body {
 form {
     background-color: #fff;
 }
+
+li {
+    list-style: none;
+}
+
+.flashes {
+    color: red;
+    font-size: larger;
+}
